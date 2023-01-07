@@ -198,6 +198,13 @@ main {
     margin-bottom: 24px;
     width: 100%;
 }
+.contact-title{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.contact-list{
+    margin-top: 20px;
+}
 .call-now{
     background-image: url('../images/watch.png');
     min-height: 170px;
@@ -209,8 +216,13 @@ main {
 .call-now-items{
     padding-top: 50px;
     margin-left: 70px;
-    font-size: 20px;
-    
+    font-size: 20px;  
+}
+.call-now-title{
+    margin-bottom: 20px;
+}
+.call-now .btn-primary{
+    margin-bottom: 20px;
 }
 
 /* Bottom section */
